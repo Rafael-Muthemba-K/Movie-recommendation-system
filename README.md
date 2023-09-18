@@ -1,15 +1,15 @@
 # Phase4project
 Movie Recommendation System README
-## Overview('\n')
+## Overview
 Welcome to MovieXplosion's Movie Recommendation System! MovieXplosion is a streaming platform dedicated to enhancing user satisfaction by providing personalized movie recommendations to keep users engaged and satisfied. This project employs collaborative filtering, content-based filtering, and hybrid approaches to suggest movies to users, ultimately improving their experience on the platform.
 
-## Problem Statement (\n)
+## Problem Statement 
 The existing recommendation system on MovieXplosion has several limitations, including subpar recommendations, low user engagement, and retention issues. New users receive generic recommendations, and existing users lack tailor-made suggestions. The goal of this project is to address these issues and deliver relevant movie recommendations to all users.
 
-## Data (\n)
+## Data 
 I sourced data from MovieLens, utilizing the small dataset due to computational constraints. This dataset includes information about movies, user ratings, and other relevant details.
-The data files look as follows:(\n)
-Movies File(\n)
+The data files look as follows: <br>
+Movies File <br>
 It contains information about the movies.(\n)
 movieId - Unique identifier for each movie.(\n)
 title - The movie titles.(\n)
