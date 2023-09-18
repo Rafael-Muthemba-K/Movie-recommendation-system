@@ -3,7 +3,7 @@ Movie Recommendation System README
 Overview
 Welcome to MovieXplosion's Movie Recommendation System! MovieXplosion is a streaming platform dedicated to enhancing user satisfaction by providing personalized movie recommendations to keep users engaged and satisfied. This project employs collaborative filtering, content-based filtering, and hybrid approaches to suggest movies to users, ultimately improving their experience on the platform.
 
-Problem Statement
+Problem Statement \n
 The existing recommendation system on MovieXplosion has several limitations, including subpar recommendations, low user engagement, and retention issues. New users receive generic recommendations, and existing users lack tailor-made suggestions. The goal of this project is to address these issues and deliver relevant movie recommendations to all users.
 
 Data
